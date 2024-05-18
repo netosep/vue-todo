@@ -11,6 +11,11 @@
 
 #
 
+### Clonando e acessando o projeto
+```
+git clone https://github.com/netosep/vue-todo.git && cd vue-todo
+```
+
 ### Instalando o projeto
 ```
 npm install
